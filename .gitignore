@@ -1,2 +1,8 @@
 # Project exclude paths
-/node_modules/
+dist/app
+node_modules/
+npm-debug.log
+webpack.local.config.js
+.idea
+**/.DS_Store
+.vscode
